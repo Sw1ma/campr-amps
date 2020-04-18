@@ -14,9 +14,9 @@ Based on the available battery (Ah), an optional converter or solar panels.
 ## NuGet Packages:
 | Package | Build Server| Type | Release |
 |--|--|--|--|
-| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=01ba22b8-fc38-42d6-84b3-c589a3cfae34&preferRelease=true) |
-| Campr.Shared | DevOps | Build | [![Campr.Shared Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/21d07268-c74d-4040-9e9e-45a9b2888373/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=21d07268-c74d-4040-9e9e-45a9b2888373&preferRelease=true) | 
-| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=344777fc-7e97-4c04-bfb1-e6bafaefdd54&preferRelease=true) | 
+| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts) |
+| Campr.Shared | DevOps | Build | [![Campr.Shared Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/21d07268-c74d-4040-9e9e-45a9b2888373/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts) | 
+| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts) | 
 
 ## Release notes
 See [changelog](./CHANGELOG.md) for overall release notes.
