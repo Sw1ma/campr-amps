@@ -19,7 +19,7 @@ Based on the available battery (Ah), an optional converter or solar panels.
 | Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=344777fc-7e97-4c04-bfb1-e6bafaefdd54&preferRelease=true) | 
 
 ## Release notes
-See [changelog](./CHANGELOG) for release notes for all versions.
+See [changelog](./CHANGELOG.md) for overall release notes.
 
 ## Tools and technologies
 * Visual Studio Community Edition 2019
