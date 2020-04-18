@@ -3,7 +3,9 @@ Here you'll find the primary repositorie I'm working on, monthly iteration plans
 and issues containing discussions around new features and changes to this app. 
 
 :zap: **Campr Amps** is a mobile app to calculate self-sufficient outdoor time for campers and to get insights in power usage. 
-Based on the available battery (Ah), an optional converter or solar panels.
+Based on the available battery (Ah), and an optional converter or solar panels. Source code is managed privately in Microsoft DevOps. Project is publicly managed in this repository. 
+
+Available on App Store and Google Play when released.
 
 ## Build Status:
 | Build Server | Type | Platform | Target | Status |
@@ -51,3 +53,6 @@ See [changelog](./CHANGELOG.md) for overall release notes.
 ## License & Copyright
 Copyright (c) 2020, Xlpina Mobile Apps by Martin Swinkels  
 See [license](./LICENSE) file.
+
+<sub>Apple, iPhone, and iPad are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc.</sub>  
+<sub>Google Play and the Google Play logo are trademarks of Google LLC.</sub>
