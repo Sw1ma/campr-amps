@@ -8,15 +8,15 @@ Based on the available battery (Ah), an optional converter or solar panels.
 ## Build Status:
 | Build Server | Type | Platform | Target | Status |
 |--|--|--|--|--|
-| DevOps | Build | MacOS | Andriod | [![Build Status](https://dev.azure.com/XlpinaDev/Campr.Amps/_apis/build/status/Campr.Amps?branchName=master)](https://dev.azure.com/XlpinaDev/Campr.Amps/_build/latest?definitionId=2&branchName=master) |
-| DevOps | Build | MacOS | iOS  | n/a |
+| App Center | Build | MacOS | Andriod | [![Build status](https://build.appcenter.ms/v0.1/apps/edba7a7c-fdaf-4762-a420-f8983f88921f/branches/master/badge)](https://appcenter.ms) |
+| App Center | Build | MacOS | iOS  | n/a |
 
 ## NuGet Packages:
-| Package | Build Server| Type | Release | Status |
-|--|--|--|--|--|
-| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=01ba22b8-fc38-42d6-84b3-c589a3cfae34&preferRelease=true) | [![Build Status](https://dev.azure.com/XlpinaDev/Campr.Forms/_apis/build/status/Campr.Forms?branchName=master)](https://dev.azure.com/XlpinaDev/Campr.Forms/_build/latest?definitionId=4&branchName=master) |
-| Campr.Shared | DevOps | Build | [![Campr.Shared Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/21d07268-c74d-4040-9e9e-45a9b2888373/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=21d07268-c74d-4040-9e9e-45a9b2888373&preferRelease=true) | [![Build Status](https://dev.azure.com/XlpinaDev/Campr.Shared/_apis/build/status/Campr.Shared?branchName=master)](https://dev.azure.com/XlpinaDev/Campr.Shared/_build/latest?definitionId=3&branchName=master)
-| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=344777fc-7e97-4c04-bfb1-e6bafaefdd54&preferRelease=true) | [![Build Status](https://dev.azure.com/XlpinaDev/Campr.Platform/_apis/build/status/Campr.Platform?branchName=master)](https://dev.azure.com/XlpinaDev/Campr.Platform/_build/latest?definitionId=5&branchName=master) |
+| Package | Build Server| Type | Release |
+|--|--|--|--|
+| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=01ba22b8-fc38-42d6-84b3-c589a3cfae34&preferRelease=true) |
+| Campr.Shared | DevOps | Build | [![Campr.Shared Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/21d07268-c74d-4040-9e9e-45a9b2888373/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=21d07268-c74d-4040-9e9e-45a9b2888373&preferRelease=true) | 
+| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=344777fc-7e97-4c04-bfb1-e6bafaefdd54&preferRelease=true) | 
 
 ## Release notes
 See [changelog](./CHANGELOG.md) for release notes for all versions.
