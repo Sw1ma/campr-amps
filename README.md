@@ -46,8 +46,11 @@ See [changelog](./CHANGELOG.md) for overall release notes.
 - [Material Design Icons v3.8.95](https://cdn.materialdesignicons.com/3.8.95/)
 
 ## Made Possible By
-* [MVVM Helpers, James Montemagno](https://github.com/jamesmontemagno/mvvm-helpers)
-* [Android Asset Studio, Roman Nurik](https://romannurik.github.io/AndroidAssetStudio/index.html)
+- [Xamarin.Essentials](https://docs.microsoft.com/xamarin/essentials)
+- [Xamarin.Forms](https://xamarin.com/forms)
+- [Xamarin.Forms.Visual.Material](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/visual/)
+- [MVVM Helpers, James Montemagno](https://github.com/jamesmontemagno/mvvm-helpers)
+- [Android Asset Studio, Roman Nurik](https://romannurik.github.io/AndroidAssetStudio/index.html)
 
 ## License & Copyright
 Copyright (c) 2020, Xlpina Mobile Apps by Martin Swinkels  
