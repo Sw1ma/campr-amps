@@ -6,6 +6,10 @@ and issues containing discussions around new features and changes to this app.
 
 Available on App Store and Google Play when released.
 
+## Project:
+- Have an issue or suggestion? [Let me know!](https://github.com/Sw1ma/campr-amps/issues/new/choose)  
+- I encourage you to read [this wiki](https://github.com/Sw1ma/campr-amps/wiki) to get more insights why this repository exist?
+
 ## Build Status:
 | Build Server | Type | Platform | Target | Status |
 |--|--|--|--|--|
