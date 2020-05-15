@@ -1,4 +1,4 @@
-# Contributing
+# Beta testers
 
 Testing is an important part of the app development process, so I aim to ensure a smooth and successful experience. For that I partnered with App Center, a third-party service, to continuous integrate, deliver, and test.
 
