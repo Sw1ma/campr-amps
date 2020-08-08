@@ -15,8 +15,8 @@ Available on App Store and Google Play when released.
 ## Build Status:
 | Build Server | Type | Platform | Target | Status |
 |--|--|--|--|--|
-| App Center | Build, Launch | MacOS | Andriod | [![Build status](https://build.appcenter.ms/v0.1/apps/edba7a7c-fdaf-4762-a420-f8983f88921f/branches/master/badge)](https://appcenter.ms) |
-| App Center | Build, Launch | MacOS | iOS  | [![Build status](https://build.appcenter.ms/v0.1/apps/1dc8e3ac-2fcd-424d-90f5-907c0861b4ee/branches/master/badge)](https://appcenter.ms) |
+| App Center | Build, Launch | MacOS | Andriod | [![Build status](https://build.appcenter.ms/v0.1/apps/7b6c6208-b4fe-4556-a34f-cf3be94fd4f2/branches/master/badge)](https://appcenter.ms) |
+| App Center | Build, Launch | MacOS | iOS  | [![Build status](https://build.appcenter.ms/v0.1/apps/852f753a-ee3c-4b81-b49f-aa86812d6b19/branches/master/badge)](https://appcenter.ms) |
 
 ## NuGet Packages:
 | Package | Build Server| Type | Release |
