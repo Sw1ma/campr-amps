@@ -21,9 +21,9 @@ Available on App Store and Google Play when released.
 ## NuGet Packages:
 | Package | Build Server| Type | Release |
 |--|--|--|--|
-| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts) |
-| Campr.Core | DevOps | Build |[![Campr.Core Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/06b61ad0-bc67-4e6a-86fe-0de87b451dc6/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=06b61ad0-bc67-4e6a-86fe-0de87b451dc6&preferRelease=true) | 
-| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDev/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDev/Campr.Artifacts) | 
+| Campr.Forms | DevOps | Build | [![Campr.Forms Package](https://feeds.dev.azure.com/XlpinaDevOps/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/01ba22b8-fc38-42d6-84b3-c589a3cfae34/Badge)](https://dev.azure.com/XlpinaDevOps/Campr.Artifacts) |
+| Campr.Core | DevOps | Build |[![Campr.Core Package](https://feeds.dev.azure.com/XlpinaDevOps/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/06b61ad0-bc67-4e6a-86fe-0de87b451dc6/Badge)](https://dev.azure.com/XlpinaDevOps/Campr.Artifacts/_packaging?_a=package&feed=6d95a25d-d3a3-41de-9034-351b19e1d03a&package=06b61ad0-bc67-4e6a-86fe-0de87b451dc6&preferRelease=true) | 
+| Campr.Platform | DevOps | Buid | [![Campr.Platform Package](https://feeds.dev.azure.com/XlpinaDevOps/98af739c-52c4-42b2-8293-178c575c8c80/_apis/public/Packaging/Feeds/6d95a25d-d3a3-41de-9034-351b19e1d03a/Packages/344777fc-7e97-4c04-bfb1-e6bafaefdd54/Badge)](https://dev.azure.com/XlpinaDevOps/Campr.Artifacts) | 
 
 ## Release notes
 See [changelog](./CHANGELOG.md) for overall release notes.
