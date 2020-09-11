@@ -2,6 +2,8 @@
 Here you'll find the primary repositorie I'm working on, monthly iteration plans with key changes I plan to make, 
 and issues containing discussions around new features and changes to this app. 
 
+<img src="./images/google_pixel_3a_xl_3x.png" alt="drawing" width="256"/>
+
 :zap: **Campr Amps** is a mobile app to calculate self-sufficient outdoor time for camper users and to get insights in power usage, based on available battery (Ah), an optional converter and solar panels. Source code is managed privately in Microsoft DevOps. Project is publicly managed in this repository. 
 
 Available on App Store and Google Play when released.
